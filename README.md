@@ -1,6 +1,6 @@
 👋 Hi, I'm Eric-Alexandru Prodan!
 
-🎓 I am a student at the Faculty of Automatic Control and Computer Science at POLITEHNICA Bucharest. I thrive on challenges and love diving into complex problems.
+🎓 I am a student at Politehnica University of Bucharest, first year of Computer Engineering. I thrive on challenges and love diving into complex problems.
 
 🛠️ Current Stack: 🦀 Rust | 🐍 Python | ⚙️ C/C++ .
 
