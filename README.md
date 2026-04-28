@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/u9S9uM6C_kAAAAAC/luffy.gif" width="100%" alt="Luffy Banner">
+  <img src="https://tenor.com/view/luffy-gif-26778811" width="100%" alt="Luffy Banner">
   <h1>Hi there, I'm Eric-Alexandru Prodan 👋</h1>
   <p><i>Computer Engineering Student at Politehnica University of Bucharest</i></p>
 </div>
