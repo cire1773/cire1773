@@ -43,13 +43,9 @@ I am a first-year Computer Engineering student at **Politehnica University of Bu
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cire1773&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cire1773&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cire1773&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cire1773&layout=compact&theme=radical)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cire1773&color=blueviolet" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=cire1773&color=blueviolet)
